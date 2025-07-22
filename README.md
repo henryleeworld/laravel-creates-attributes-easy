@@ -1,4 +1,4 @@
-# Laravel 10 輕鬆建立屬性
+# Laravel 11 輕鬆建立屬性
 
 引入 milwad 的 laravel-attributes 套件來擴增輕鬆建立屬性，將（技術細節）規格與產品建立關聯。
 
@@ -26,5 +26,5 @@ $ php artisan migrate --seed
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/jNDypqM.png)
+![](https://i.imgur.com/8D7B7ro.png)
 > 將規格與產品建立關聯
